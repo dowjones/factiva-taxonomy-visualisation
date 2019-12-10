@@ -21,7 +21,11 @@ industries.ipynb
 ================
 Notebook with a Dow Jones DNA industries hierarchy visualisation.
 
+.. image:: img/industries-chart.png
+
 
 regions.ipynb
 ================
 Notebook with a Dow Jones DNA regions hierarchy visualisation.
+
+.. image:: img/regions-chart.png
