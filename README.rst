@@ -19,13 +19,13 @@ To use these methods, clone this and the djdna_common repository to the same bas
 
 industries.ipynb
 ================
-Notebook with a Dow Jones DNA industries hierarchy visualisation.
+Notebook with a Dow Jones DNA industries hierarchy visualisation. `High-res version <img/industries-chart.png>`_.
 
 .. image:: img/industries-chart-cap.png
 
 
 regions.ipynb
 ================
-Notebook with a Dow Jones DNA regions hierarchy visualisation.
+Notebook with a Dow Jones DNA regions hierarchy visualisation. `High-res version <img/regions-chart.png>`_.
 
 .. image:: img/regions-chart-cap.png
